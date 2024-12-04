@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/UdhayanS/Leetcode100/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/UdhayanS/Leetcode100/tree/master/0066-plus-one) |
 | [2232-adding-spaces-to-a-string](https://github.com/UdhayanS/Leetcode100/tree/master/2232-adding-spaces-to-a-string) |
 ## Math
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/UdhayanS/Leetcode100/tree/master/2232-adding-spaces-to-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/UdhayanS/Leetcode100/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
