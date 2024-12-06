@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/UdhayanS/Leetcode100/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/UdhayanS/Leetcode100/tree/master/0066-plus-one) |
 | [2232-adding-spaces-to-a-string](https://github.com/UdhayanS/Leetcode100/tree/master/2232-adding-spaces-to-a-string) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/UdhayanS/Leetcode100/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Math
 |  |
 | ------- |
@@ -33,4 +34,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/UdhayanS/Leetcode100/tree/master/0035-search-insert-position) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/UdhayanS/Leetcode100/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+## Hash Table
+|  |
+| ------- |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/UdhayanS/Leetcode100/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+## Greedy
+|  |
+| ------- |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/UdhayanS/Leetcode100/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+## Sorting
+|  |
+| ------- |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/UdhayanS/Leetcode100/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 <!---LeetCode Topics End-->
