@@ -1,31 +1,32 @@
 class Solution {
     public int maxCount(int[] banned, int n, int maxSum) {
-        int[] arr = new int[n+1];
+        boolean[] arr = new boolean[100001];
         
-        for(int i=0; i<=n; i++){
-            arr[i]=i;
-            for(int j=0; j<banned.length; j++){
-                if(arr[i]==banned[j]){
-                    arr[i]=0;
-                    break;
-                }
+       
+            for(int num:banned){
+                    //int num = banned[j];
+                    arr[num]=true;
+                    
+                
             }
-        }
+        
         int max=0, count=0;
-        for(int i=0; i<=n; i++){
-            if(arr[i]!=0){
-                if(max<maxSum){
-                    max=max+arr[i];
-                    count++;
-                    if(max>maxSum){
-                        count--;
-                        return count;
-                    }
-                    //System.out.print(" "+arr[i]);
-                }
+        for(int i=1; i<=n; i++){
+            if(arr[i]!=true ){
+                
+                    max=max+i;
+                    if(max<=maxSum){
+                        count++;
+                        //System.out.println("ans " +i);
+                    }    
+                    else
+                        break;
+                    
+                    
+                
             }
         }
-        //System.out.println("ans "+Arrays.toString(arr)+max);
+        // System.out.println("ans "+ +max);
         return count;
     }
 }
