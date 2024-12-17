@@ -8,18 +8,13 @@ class Solution {
                 copiedMatrix[i][j] = matrix[i][j];
             }
         }
-        int m=matrix.length-1, n=0;
+        int m=matrix.length-1;
         for (int i = 0; i < matrix.length; i++) {
             for (int j = 0 ; j < matrix.length ; j++) {  
-                System.out.print("n"+n);
-                System.out.print("m"+m);
                 matrix[i][j] = copiedMatrix[m][i];
-                m--;;
-                
+                m--;
             }
-            
             m=matrix.length-1;
-            n=0;
         }
     }
 }
