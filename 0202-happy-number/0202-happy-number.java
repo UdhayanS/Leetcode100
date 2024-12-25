@@ -1,24 +1,21 @@
-
-
 class Solution {
-    public static int cal(int num) {
-        int ans = 0;
-        while (num > 0) {
-            int digit = num % 10; // Extract the last digit
-            ans += digit * digit; // Add the square of the digit to the sum
-            num /= 10; // Remove the last digit
+    public static int cal(int num){
+        
+        String nS = Integer.toString(num);
+        int ans=0;
+        for(int i=0; i<nS.length(); i++){
+            int temp = nS.charAt(i) - '0';
+            ans = ans+(int)Math.pow(temp,2);
         }
+        if(ans>9) return cal(ans);
         return ans;
     }
-
     public boolean isHappy(int n) {
-        HashSet<Integer> seen = new HashSet<>(); // To store numbers seen in the process
-
-        while (n != 1 && !seen.contains(n)) {
-            seen.add(n); // Add current number to the set
-            n = cal(n); // Update n to the sum of squares of its digits
-        }
-
-        return n == 1; // If n equals 1, it is a happy number; otherwise, it is not
+        
+        int finalA = cal(n);
+        if(finalA==7) return true;
+        if(finalA<10 && finalA!=1) return false;
+        if(finalA<10 && finalA==1) return true;
+        return false;
     }
 }
