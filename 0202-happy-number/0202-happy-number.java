@@ -12,10 +12,9 @@ class Solution {
     }
     public boolean isHappy(int n) {
         
-        int finalA = cal(n);
-        if(finalA==7) return true;
-        if(finalA<10 && finalA!=1) return false;
-        if(finalA<10 && finalA==1) return true;
+        int ans = cal(n);
+        if(ans==7) return true;
+        if(ans<10 && ans==1) return true;
         return false;
     }
 }
