@@ -1,12 +1,15 @@
 class Solution {
     public long[] findPrefixScore(int[] nums) {
-        long[] result = new long[nums.length];
-        long max=0, ans=0;
-        for(int i=0; i<nums.length; i++){
-            max = Math.max(max, nums[i]);
-            ans += nums[i]+max;
-            result[i] = ans;
+        int n = nums.length;
+        long[] result = new long[n];
+        long max = 0, prefixSum = 0;
+
+        for (int i = 0; i < n; i++) {
+            max = Math.max(max, nums[i]); // Update the maximum value.
+            prefixSum += nums[i] + max;  // Compute the cumulative prefix score.
+            result[i] = prefixSum;       // Store the result.
         }
+
         return result;
     }
 }
