@@ -15,7 +15,7 @@ class Solution {
 
         
 
-        for(int i=0; i<s.length(); i++){
+        for(int i=0; i<s.length()-1; i++){
             for(int j=i; j<s.length(); j++){
                 
                 String sub = s.substring(i,j+1);
