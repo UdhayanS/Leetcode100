@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/UdhayanS/Leetcode100/tree/master/0135-candy) |
 | [2232-adding-spaces-to-a-string](https://github.com/UdhayanS/Leetcode100/tree/master/2232-adding-spaces-to-a-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/UdhayanS/Leetcode100/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/UdhayanS/Leetcode100/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 ## Math
 |  |
 | ------- |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/UdhayanS/Leetcode100/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/UdhayanS/Leetcode100/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/UdhayanS/Leetcode100/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/UdhayanS/Leetcode100/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 <!---LeetCode Topics End-->
