@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/UdhayanS/Leetcode100/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/UdhayanS/Leetcode100/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/UdhayanS/Leetcode100/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/UdhayanS/Leetcode100/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/UdhayanS/Leetcode100/tree/master/0202-happy-number) |
 ## Two Pointers
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/UdhayanS/Leetcode100/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/UdhayanS/Leetcode100/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
