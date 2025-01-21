@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/UdhayanS/Leetcode100/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/UdhayanS/Leetcode100/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/UdhayanS/Leetcode100/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/UdhayanS/Leetcode100/tree/master/0258-add-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/UdhayanS/Leetcode100/tree/master/0258-add-digits) |
 | [2232-adding-spaces-to-a-string](https://github.com/UdhayanS/Leetcode100/tree/master/2232-adding-spaces-to-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/UdhayanS/Leetcode100/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Binary Search
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/UdhayanS/Leetcode100/tree/master/0050-powx-n) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/UdhayanS/Leetcode100/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
