@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/UdhayanS/Leetcode100/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/UdhayanS/Leetcode100/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/UdhayanS/Leetcode100/tree/master/0258-add-digits) |
+| [1448-maximum-69-number](https://github.com/UdhayanS/Leetcode100/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/UdhayanS/Leetcode100/tree/master/1642-water-bottles) |
 ## Two Pointers
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/UdhayanS/Leetcode100/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/UdhayanS/Leetcode100/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/UdhayanS/Leetcode100/tree/master/0135-candy) |
+| [1448-maximum-69-number](https://github.com/UdhayanS/Leetcode100/tree/master/1448-maximum-69-number) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/UdhayanS/Leetcode100/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
