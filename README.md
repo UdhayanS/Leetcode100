@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/UdhayanS/Leetcode100/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/UdhayanS/Leetcode100/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/UdhayanS/Leetcode100/tree/master/0258-add-digits) |
+| [1642-water-bottles](https://github.com/UdhayanS/Leetcode100/tree/master/1642-water-bottles) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/UdhayanS/Leetcode100/tree/master/0258-add-digits) |
+| [1642-water-bottles](https://github.com/UdhayanS/Leetcode100/tree/master/1642-water-bottles) |
 | [2232-adding-spaces-to-a-string](https://github.com/UdhayanS/Leetcode100/tree/master/2232-adding-spaces-to-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/UdhayanS/Leetcode100/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Binary Search
