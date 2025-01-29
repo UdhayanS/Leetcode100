@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/UdhayanS/Leetcode100/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/UdhayanS/Leetcode100/tree/master/0137-single-number-ii) |
 | [0164-maximum-gap](https://github.com/UdhayanS/Leetcode100/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/UdhayanS/Leetcode100/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2232-adding-spaces-to-a-string](https://github.com/UdhayanS/Leetcode100/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/UdhayanS/Leetcode100/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/UdhayanS/Leetcode100/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/UdhayanS/Leetcode100/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/UdhayanS/Leetcode100/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/UdhayanS/Leetcode100/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/UdhayanS/Leetcode100/tree/master/0202-happy-number) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/UdhayanS/Leetcode100/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/UdhayanS/Leetcode100/tree/master/2232-adding-spaces-to-a-string) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/UdhayanS/Leetcode100/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/UdhayanS/Leetcode100/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/UdhayanS/Leetcode100/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/UdhayanS/Leetcode100/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Hash Table
 |  |
