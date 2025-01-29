@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/UdhayanS/Leetcode100/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/UdhayanS/Leetcode100/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/UdhayanS/Leetcode100/tree/master/0137-single-number-ii) |
+| [0164-maximum-gap](https://github.com/UdhayanS/Leetcode100/tree/master/0164-maximum-gap) |
 | [2232-adding-spaces-to-a-string](https://github.com/UdhayanS/Leetcode100/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/UdhayanS/Leetcode100/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/UdhayanS/Leetcode100/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/UdhayanS/Leetcode100/tree/master/0164-maximum-gap) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/UdhayanS/Leetcode100/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## String Matching
 |  |
@@ -146,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/UdhayanS/Leetcode100/tree/master/0137-single-number-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/UdhayanS/Leetcode100/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/UdhayanS/Leetcode100/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
