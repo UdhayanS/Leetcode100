@@ -45,7 +45,6 @@ class Solution {
         Stack<Integer> stackN = new Stack<>();
         stackN.push(n);
         n--;
-        //System.out.println(n);
         int index=0;
         while(n>0){
             index = index%4;
@@ -63,7 +62,6 @@ class Solution {
             }
             n--;
             index++;
-            //System.out.println(stackN);
         }
         int sum=0;
         for(int nn : stackN){
