@@ -31,7 +31,7 @@ class Solution {
         String str = "1";
         for(int i=0; i<n-1; i++){
             str = cal(str);
-            System.out.println(str);
+            // System.out.println(str);
         }
         return str.toString();
 
