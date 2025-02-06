@@ -8,8 +8,7 @@ class Solution {
         for(String str : word2){
             str2.append(str);
         }
-        System.out.println(str1);
-        System.out.println(str2);
+        
      return str1.toString().equals(str2.toString());
     }
 }
