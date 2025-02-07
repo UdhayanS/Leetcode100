@@ -1,14 +1,5 @@
 class Solution {
     public int[] intersect(int[] nums1, int[] nums2) {
-        // if (nums1.length > nums2.length) {
-        //     int res[] = cal(nums1, nums2);
-        //     return res;
-        // }
-        int res[] = cal(nums2, nums1);
-        return res;
-    }
-
-    public static int[] cal(int[] nums1, int[] nums2) {
         Arrays.sort(nums1);
         Arrays.sort(nums2);
         List<Integer> list = new ArrayList<>();
@@ -34,4 +25,5 @@ class Solution {
         }
         return res;
     }
+
 }
