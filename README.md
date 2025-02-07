@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/UdhayanS/Leetcode100/tree/master/0137-single-number-ii) |
 | [0164-maximum-gap](https://github.com/UdhayanS/Leetcode100/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UdhayanS/Leetcode100/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UdhayanS/Leetcode100/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/UdhayanS/Leetcode100/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/UdhayanS/Leetcode100/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2232-adding-spaces-to-a-string](https://github.com/UdhayanS/Leetcode100/tree/master/2232-adding-spaces-to-a-string) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/UdhayanS/Leetcode100/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/UdhayanS/Leetcode100/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UdhayanS/Leetcode100/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UdhayanS/Leetcode100/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/UdhayanS/Leetcode100/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Hash Table
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/UdhayanS/Leetcode100/tree/master/0164-maximum-gap) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UdhayanS/Leetcode100/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/UdhayanS/Leetcode100/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## String Matching
 |  |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/UdhayanS/Leetcode100/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/UdhayanS/Leetcode100/tree/master/0073-set-matrix-zeroes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UdhayanS/Leetcode100/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -177,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/UdhayanS/Leetcode100/tree/master/0319-bulb-switcher) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UdhayanS/Leetcode100/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
