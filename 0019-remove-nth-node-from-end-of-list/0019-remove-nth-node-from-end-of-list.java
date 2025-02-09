@@ -38,20 +38,16 @@ class Solution {
             temp= temp.next;
         }
         int newN = size-n;
-        System.out.println(newN);
         if(newN==0) return head.next;
         temp = head;
         ListNode prev = null;
         int i=0;
         while(temp!=null && i!=newN){
-            System.out.println(temp.val);
             prev = temp;
             temp = temp.next;
             i++;
         }
         prev.next = temp.next;
-        //temp.next = null;
-        System.out.println(size);
         return head;
     }
 
