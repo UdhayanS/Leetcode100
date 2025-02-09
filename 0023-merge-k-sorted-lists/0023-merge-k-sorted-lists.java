@@ -9,15 +9,15 @@
  * }
  */
 class Solution {
-        public static ListNode addMiddle(int val, ListNode res) {
+    public static ListNode addMiddle(int val, ListNode res) {
 
-    ListNode nn = new ListNode(val);
+        ListNode nn = new ListNode(val);
         if (res == null) {
-            return nn; // If list is empty, return new node as head
+            return nn;
         }
         if (res.val > val) {
             nn.next = res;
-            return nn; // Insert before the current head
+            return nn; 
         }
 
         ListNode prev = null;
@@ -26,7 +26,7 @@ class Solution {
             prev = temp;
             temp = temp.next;
         }
-        if(prev==null){
+        if (prev == null) {
             nn.next = res;
             return nn;
         }
@@ -35,21 +35,21 @@ class Solution {
         return res;
     }
 
-
     public ListNode mergeKLists(ListNode[] lists) {
-        ListNode res = null; // Start with an empty list
-        if (lists.length == 0) return null;
+        ListNode res = null;
+        if (lists.length == 0)
+            return null;
 
         int size = lists.length - 1;
         while (size >= 0) {
-            ListNode tempHead = lists[size]; // Get the current list head
+            ListNode tempHead = lists[size];
             while (tempHead != null) {
-                res = addMiddle(tempHead.val, res); // Update res correctly
+                res = addMiddle(tempHead.val, res);
                 tempHead = tempHead.next;
             }
             size--;
         }
-        return res; 
+        return res;
 
     }
 }
