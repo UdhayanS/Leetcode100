@@ -38,16 +38,18 @@ class Solution {
 
     public ListNode mergeKLists(ListNode[] lists) {
         ListNode res = null; // Start with an empty list
-        if (lists.length == 0)
-            return null;
+        if (lists.length == 0) return null;
 
-        for (ListNode head : lists) { // Iterate through each list in `lists[]`
-            while (head != null) {
-                res = addMiddle(head.val, res); // Insert each node in sorted order
-                head = head.next;
+        int size = lists.length - 1;
+        while (size >= 0) {
+            ListNode tempHead = lists[size]; // Get the current list head
+            while (tempHead != null) {
+                res = addMiddle(tempHead.val, res); // Update res correctly
+                tempHead = tempHead.next;
             }
+            size--;
         }
+        return res; 
 
-        return res;
     }
 }
