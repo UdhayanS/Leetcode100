@@ -30,9 +30,7 @@ class Solution {
             int digit = sum%10;
            
             carry = sum/10;
-             System.out.println(carry);
             temp.next = new ListNode(digit);
-            System.out.println(digit);
             temp = temp.next;
         
     }
