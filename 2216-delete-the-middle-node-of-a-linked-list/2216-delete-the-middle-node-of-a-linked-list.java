@@ -18,7 +18,6 @@ class Solution {
             temp = temp.next;
         }
         size = size/2+1;
-        System.out.println(size);
         int i=1;
         temp = head;
         ListNode prev = null;
