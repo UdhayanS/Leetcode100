@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/UdhayanS/Leetcode100/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UdhayanS/Leetcode100/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/UdhayanS/Leetcode100/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/UdhayanS/Leetcode100/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/UdhayanS/Leetcode100/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/UdhayanS/Leetcode100/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/UdhayanS/Leetcode100/tree/master/2232-adding-spaces-to-a-string) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/UdhayanS/Leetcode100/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/UdhayanS/Leetcode100/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/UdhayanS/Leetcode100/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/UdhayanS/Leetcode100/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/UdhayanS/Leetcode100/tree/master/0237-delete-node-in-a-linked-list) |
 ## Matrix
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/UdhayanS/Leetcode100/tree/master/0234-palindrome-linked-list) |
 | [1048-clumsy-factorial](https://github.com/UdhayanS/Leetcode100/tree/master/1048-clumsy-factorial) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/UdhayanS/Leetcode100/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Trie
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/UdhayanS/Leetcode100/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/UdhayanS/Leetcode100/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/UdhayanS/Leetcode100/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/UdhayanS/Leetcode100/tree/master/0234-palindrome-linked-list) |
 ## Number Theory
 |  |
 | ------- |
