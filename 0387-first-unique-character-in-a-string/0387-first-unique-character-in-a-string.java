@@ -6,7 +6,6 @@ class Solution {
 
         }
         int i = 0;
-        System.out.println(map);
         for (char c : map.keySet()) {
             if (map.get(c) == 1) {
                 char find = c;
