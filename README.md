@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/UdhayanS/Leetcode100/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/UdhayanS/Leetcode100/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/UdhayanS/Leetcode100/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/UdhayanS/Leetcode100/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/UdhayanS/Leetcode100/tree/master/0412-fizz-buzz) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/UdhayanS/Leetcode100/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/UdhayanS/Leetcode100/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/UdhayanS/Leetcode100/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/UdhayanS/Leetcode100/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/UdhayanS/Leetcode100/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/UdhayanS/Leetcode100/tree/master/0387-first-unique-character-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/UdhayanS/Leetcode100/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/UdhayanS/Leetcode100/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Greedy
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/UdhayanS/Leetcode100/tree/master/0387-first-unique-character-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/UdhayanS/Leetcode100/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Brainteaser
 |  |
@@ -225,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/UdhayanS/Leetcode100/tree/master/0023-merge-k-sorted-lists) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/UdhayanS/Leetcode100/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
