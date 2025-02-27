@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/UdhayanS/Leetcode100/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/UdhayanS/Leetcode100/tree/master/0234-palindrome-linked-list) |
 | [1048-clumsy-factorial](https://github.com/UdhayanS/Leetcode100/tree/master/1048-clumsy-factorial) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/UdhayanS/Leetcode100/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -236,4 +237,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/UdhayanS/Leetcode100/tree/master/0387-first-unique-character-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/UdhayanS/Leetcode100/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/UdhayanS/Leetcode100/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/UdhayanS/Leetcode100/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
