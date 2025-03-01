@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/UdhayanS/Leetcode100/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/UdhayanS/Leetcode100/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/UdhayanS/Leetcode100/tree/master/0234-palindrome-linked-list) |
 | [1048-clumsy-factorial](https://github.com/UdhayanS/Leetcode100/tree/master/1048-clumsy-factorial) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/UdhayanS/Leetcode100/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -243,18 +244,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/UdhayanS/Leetcode100/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/UdhayanS/Leetcode100/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/UdhayanS/Leetcode100/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/UdhayanS/Leetcode100/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/UdhayanS/Leetcode100/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/UdhayanS/Leetcode100/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/UdhayanS/Leetcode100/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/UdhayanS/Leetcode100/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/UdhayanS/Leetcode100/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/UdhayanS/Leetcode100/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/UdhayanS/Leetcode100/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/UdhayanS/Leetcode100/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
