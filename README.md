@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/UdhayanS/Leetcode100/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2232-adding-spaces-to-a-string](https://github.com/UdhayanS/Leetcode100/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/UdhayanS/Leetcode100/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2551-apply-operations-to-an-array](https://github.com/UdhayanS/Leetcode100/tree/master/2551-apply-operations-to-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/UdhayanS/Leetcode100/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/UdhayanS/Leetcode100/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/UdhayanS/Leetcode100/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/UdhayanS/Leetcode100/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/UdhayanS/Leetcode100/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/UdhayanS/Leetcode100/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/UdhayanS/Leetcode100/tree/master/2551-apply-operations-to-an-array) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/UdhayanS/Leetcode100/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## String
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-clumsy-factorial](https://github.com/UdhayanS/Leetcode100/tree/master/1048-clumsy-factorial) |
 | [1642-water-bottles](https://github.com/UdhayanS/Leetcode100/tree/master/1642-water-bottles) |
 | [2232-adding-spaces-to-a-string](https://github.com/UdhayanS/Leetcode100/tree/master/2232-adding-spaces-to-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/UdhayanS/Leetcode100/tree/master/2551-apply-operations-to-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/UdhayanS/Leetcode100/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Binary Search
 |  |
