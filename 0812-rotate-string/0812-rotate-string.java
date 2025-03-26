@@ -5,7 +5,6 @@ class Solution {
             StringBuilder str = new StringBuilder();
             str.append(s.substring(i, s.length()));
             str.append(s.substring(0, i));
-            System.out.println(str);
             if(goal.equals(str.toString())){
                 return true;
             }
