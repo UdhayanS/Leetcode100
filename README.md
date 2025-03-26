@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/UdhayanS/Leetcode100/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/UdhayanS/Leetcode100/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/UdhayanS/Leetcode100/tree/master/0412-fizz-buzz) |
+| [0812-rotate-string](https://github.com/UdhayanS/Leetcode100/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/UdhayanS/Leetcode100/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/UdhayanS/Leetcode100/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/UdhayanS/Leetcode100/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/UdhayanS/Leetcode100/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/UdhayanS/Leetcode100/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/UdhayanS/Leetcode100/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/UdhayanS/Leetcode100/tree/master/3309-count-prefix-and-suffix-pairs-i) |
