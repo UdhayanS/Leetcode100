@@ -25,11 +25,9 @@ class Solution {
             List<Integer> list = new ArrayList<>();
             for(int j=k; j<n && i<m; j++){
                 list.add(mat[i][j]);
-                System.out.println(i+" "+j);
                 i++;
             }
             Collections.sort(list);
-            System.out.println(list);
             i=0;
             int ind=0;
             for(int j=k; j<n && i<m; j++){
