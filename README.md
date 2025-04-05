@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/UdhayanS/Leetcode100/tree/master/0137-single-number-ii) |
 | [0164-maximum-gap](https://github.com/UdhayanS/Leetcode100/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UdhayanS/Leetcode100/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/UdhayanS/Leetcode100/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/UdhayanS/Leetcode100/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UdhayanS/Leetcode100/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0924-fair-candy-swap](https://github.com/UdhayanS/Leetcode100/tree/master/0924-fair-candy-swap) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/UdhayanS/Leetcode100/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/UdhayanS/Leetcode100/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UdhayanS/Leetcode100/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/UdhayanS/Leetcode100/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/UdhayanS/Leetcode100/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UdhayanS/Leetcode100/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0924-fair-candy-swap](https://github.com/UdhayanS/Leetcode100/tree/master/0924-fair-candy-swap) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/UdhayanS/Leetcode100/tree/master/0209-minimum-size-subarray-sum) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/UdhayanS/Leetcode100/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 ## Stack
 |  |
@@ -295,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/UdhayanS/Leetcode100/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/UdhayanS/Leetcode100/tree/master/0101-symmetric-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/UdhayanS/Leetcode100/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
