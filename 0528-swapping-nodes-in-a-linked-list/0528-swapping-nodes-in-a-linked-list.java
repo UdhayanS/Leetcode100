@@ -21,7 +21,6 @@ class Solution {
         int rNum = list.get(list.size()-k);
         list.set(k-1, rNum);
         list.set(list.size()-k, lNum);
-        System.out.print(list);
         ListNode node = new ListNode();
         head = node;
         for(int num: list){
