@@ -10,7 +10,6 @@ class Solution {
                 if(bank[i].charAt(j)=='1'){
                     flag = true;
                     currCount++;
-                    System.out.println(currCount+" "+i);
                 }
             }
             if(flag) isAttack++;
