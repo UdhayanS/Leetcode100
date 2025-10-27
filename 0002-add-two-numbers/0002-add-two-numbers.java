@@ -21,7 +21,7 @@ class Solution {
                 carry = 1;
             }
             else{
-                temp.next = new ListNode(l1.val + l2.val+carry);
+                temp.next = new ListNode(sum);
                 carry = 0;
             }
             l1 = l1.next;
