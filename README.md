@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/UdhayanS/Leetcode100/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2649-count-total-number-of-colored-cells](https://github.com/UdhayanS/Leetcode100/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/UdhayanS/Leetcode100/tree/master/3227-find-missing-and-repeated-values) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/UdhayanS/Leetcode100/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/UdhayanS/Leetcode100/tree/master/0137-single-number-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/UdhayanS/Leetcode100/tree/master/2308-divide-array-into-equal-pairs) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/UdhayanS/Leetcode100/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Bucket Sort
 |  |
 | ------- |
