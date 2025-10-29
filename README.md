@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1253-sort-the-matrix-diagonally](https://github.com/UdhayanS/Leetcode100/tree/master/1253-sort-the-matrix-diagonally) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/UdhayanS/Leetcode100/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/UdhayanS/Leetcode100/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2169-simple-bank-system](https://github.com/UdhayanS/Leetcode100/tree/master/2169-simple-bank-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/UdhayanS/Leetcode100/tree/master/2232-adding-spaces-to-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/UdhayanS/Leetcode100/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/UdhayanS/Leetcode100/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/UdhayanS/Leetcode100/tree/master/0412-fizz-buzz) |
 | [1048-clumsy-factorial](https://github.com/UdhayanS/Leetcode100/tree/master/1048-clumsy-factorial) |
 | [1642-water-bottles](https://github.com/UdhayanS/Leetcode100/tree/master/1642-water-bottles) |
+| [2169-simple-bank-system](https://github.com/UdhayanS/Leetcode100/tree/master/2169-simple-bank-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/UdhayanS/Leetcode100/tree/master/2232-adding-spaces-to-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/UdhayanS/Leetcode100/tree/master/2551-apply-operations-to-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/UdhayanS/Leetcode100/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/UdhayanS/Leetcode100/tree/master/0387-first-unique-character-in-a-string) |
 | [0924-fair-candy-swap](https://github.com/UdhayanS/Leetcode100/tree/master/0924-fair-candy-swap) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/UdhayanS/Leetcode100/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2169-simple-bank-system](https://github.com/UdhayanS/Leetcode100/tree/master/2169-simple-bank-system) |
 | [2308-divide-array-into-equal-pairs](https://github.com/UdhayanS/Leetcode100/tree/master/2308-divide-array-into-equal-pairs) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/UdhayanS/Leetcode100/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/UdhayanS/Leetcode100/tree/master/3227-find-missing-and-repeated-values) |
@@ -324,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/UdhayanS/Leetcode100/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/UdhayanS/Leetcode100/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/UdhayanS/Leetcode100/tree/master/0183-customers-who-never-order) |
+## Design
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/UdhayanS/Leetcode100/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
