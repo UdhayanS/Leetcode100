@@ -5,19 +5,15 @@ public class Solution {
         int ind = 1;
         int dayInc = 1;
         while(ind!=n+1){
-            
+            amount += dayInc;
             if(ind%7==0){
-                amount += dayInc;
                 weekInc += 1;
                 dayInc = weekInc;
-                ind++;
             }
             else{
-                amount += dayInc;
                 dayInc++;
-                ind++;
             }
-            
+            ind++;            
         }
         return amount;
     }
