@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UdhayanS/Leetcode100/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0924-fair-candy-swap](https://github.com/UdhayanS/Leetcode100/tree/master/0924-fair-candy-swap) |
 | [1253-sort-the-matrix-diagonally](https://github.com/UdhayanS/Leetcode100/tree/master/1253-sort-the-matrix-diagonally) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/UdhayanS/Leetcode100/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/UdhayanS/Leetcode100/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/UdhayanS/Leetcode100/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/UdhayanS/Leetcode100/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/UdhayanS/Leetcode100/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/UdhayanS/Leetcode100/tree/master/0135-candy) |
 | [1448-maximum-69-number](https://github.com/UdhayanS/Leetcode100/tree/master/1448-maximum-69-number) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/UdhayanS/Leetcode100/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/UdhayanS/Leetcode100/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/UdhayanS/Leetcode100/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UdhayanS/Leetcode100/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/UdhayanS/Leetcode100/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/UdhayanS/Leetcode100/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/UdhayanS/Leetcode100/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/UdhayanS/Leetcode100/tree/master/0234-palindrome-linked-list) |
 | [1048-clumsy-factorial](https://github.com/UdhayanS/Leetcode100/tree/master/1048-clumsy-factorial) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/UdhayanS/Leetcode100/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/UdhayanS/Leetcode100/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Trie
 |  |
@@ -334,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/UdhayanS/Leetcode100/tree/master/2169-simple-bank-system) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/UdhayanS/Leetcode100/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 <!---LeetCode Topics End-->
