@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/UdhayanS/Leetcode100/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/UdhayanS/Leetcode100/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/UdhayanS/Leetcode100/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/UdhayanS/Leetcode100/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/UdhayanS/Leetcode100/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Math
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/UdhayanS/Leetcode100/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2649-count-total-number-of-colored-cells](https://github.com/UdhayanS/Leetcode100/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/UdhayanS/Leetcode100/tree/master/3227-find-missing-and-repeated-values) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/UdhayanS/Leetcode100/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/UdhayanS/Leetcode100/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Two Pointers
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/UdhayanS/Leetcode100/tree/master/2308-divide-array-into-equal-pairs) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/UdhayanS/Leetcode100/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/UdhayanS/Leetcode100/tree/master/3227-find-missing-and-repeated-values) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/UdhayanS/Leetcode100/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Greedy
 |  |
 | ------- |
