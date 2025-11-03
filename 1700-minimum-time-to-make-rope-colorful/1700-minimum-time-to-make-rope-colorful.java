@@ -15,7 +15,6 @@ class Solution {
                 else{
                     minIndex = i;
                 }
-                System.out.print(colors.charAt(minIndex)+" -> "+i);
                 count += neededTime[minIndex];
             }
             else{
