@@ -3,8 +3,9 @@ class Solution {
         int result = 0;
         for(int i=0; i<nums.length; i++){
             int sum = 0;
-            int count = 0;
-            for(int j=1; j<=nums[i]; j++){
+            int count = 1;
+            sum += nums[i];
+            for(int j=1; j<=nums[i]/2; j++){
                 if(nums[i]%j == 0){
                     sum+=j;
                     count++;
