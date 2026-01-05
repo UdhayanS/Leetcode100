@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/UdhayanS/Leetcode100/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UdhayanS/Leetcode100/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0924-fair-candy-swap](https://github.com/UdhayanS/Leetcode100/tree/master/0924-fair-candy-swap) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/UdhayanS/Leetcode100/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1253-sort-the-matrix-diagonally](https://github.com/UdhayanS/Leetcode100/tree/master/1253-sort-the-matrix-diagonally) |
 | [1390-four-divisors](https://github.com/UdhayanS/Leetcode100/tree/master/1390-four-divisors) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/UdhayanS/Leetcode100/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/UdhayanS/Leetcode100/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/UdhayanS/Leetcode100/tree/master/0387-first-unique-character-in-a-string) |
 | [0924-fair-candy-swap](https://github.com/UdhayanS/Leetcode100/tree/master/0924-fair-candy-swap) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/UdhayanS/Leetcode100/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/UdhayanS/Leetcode100/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2169-simple-bank-system](https://github.com/UdhayanS/Leetcode100/tree/master/2169-simple-bank-system) |
 | [2308-divide-array-into-equal-pairs](https://github.com/UdhayanS/Leetcode100/tree/master/2308-divide-array-into-equal-pairs) |
