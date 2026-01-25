@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/UdhayanS/Leetcode100/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/UdhayanS/Leetcode100/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/UdhayanS/Leetcode100/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2027-minimum-moves-to-convert-string](https://github.com/UdhayanS/Leetcode100/tree/master/2027-minimum-moves-to-convert-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/UdhayanS/Leetcode100/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/UdhayanS/Leetcode100/tree/master/2232-adding-spaces-to-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/UdhayanS/Leetcode100/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/UdhayanS/Leetcode100/tree/master/1448-maximum-69-number) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/UdhayanS/Leetcode100/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/UdhayanS/Leetcode100/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2027-minimum-moves-to-convert-string](https://github.com/UdhayanS/Leetcode100/tree/master/2027-minimum-moves-to-convert-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/UdhayanS/Leetcode100/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
