@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/UdhayanS/Leetcode100/tree/master/0137-single-number-ii) |
 | [0164-maximum-gap](https://github.com/UdhayanS/Leetcode100/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UdhayanS/Leetcode100/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/UdhayanS/Leetcode100/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/UdhayanS/Leetcode100/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/UdhayanS/Leetcode100/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/UdhayanS/Leetcode100/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/UdhayanS/Leetcode100/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/UdhayanS/Leetcode100/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/UdhayanS/Leetcode100/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/UdhayanS/Leetcode100/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/UdhayanS/Leetcode100/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/UdhayanS/Leetcode100/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/UdhayanS/Leetcode100/tree/master/0387-first-unique-character-in-a-string) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0147-insertion-sort-list](https://github.com/UdhayanS/Leetcode100/tree/master/0147-insertion-sort-list) |
 | [0164-maximum-gap](https://github.com/UdhayanS/Leetcode100/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/UdhayanS/Leetcode100/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/UdhayanS/Leetcode100/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UdhayanS/Leetcode100/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0924-fair-candy-swap](https://github.com/UdhayanS/Leetcode100/tree/master/0924-fair-candy-swap) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/UdhayanS/Leetcode100/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/UdhayanS/Leetcode100/tree/master/0387-first-unique-character-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/UdhayanS/Leetcode100/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/UdhayanS/Leetcode100/tree/master/2308-divide-array-into-equal-pairs) |
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/UdhayanS/Leetcode100/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/UdhayanS/Leetcode100/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/UdhayanS/Leetcode100/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
@@ -360,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/UdhayanS/Leetcode100/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/UdhayanS/Leetcode100/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
